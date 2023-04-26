@@ -544,7 +544,7 @@ p {
   row-gap: 48px;
   column-gap: 24px;
 }
-.project-list.link {
+.project-list.item {
   display: block;
 }
 .project-list .item {
